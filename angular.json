@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "YHangular"
+  "defaultProject": "YHangular",
+  "cli": {
+    "analytics": "02c4c19b-f8df-4fd6-8913-142786753891"
+  }
 }
